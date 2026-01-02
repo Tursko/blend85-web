@@ -22,5 +22,17 @@
         "name": "Ecoboost Mustang",
         "tankSize": 15.5,
         "unit": "gal"
+    },
+    {
+        "id": "subaru-wrx-15-21",
+        "name": "2015-2021 Subaru WRX",
+        "tankSize": 15.9,
+        "unit": "gal"
+    },
+    {
+        "id": "subaru-wrx-22",
+        "name": "2022+ Subaru WRX",
+        "tankSize": 16.6,
+        "unit": "gal"
     }
 ]

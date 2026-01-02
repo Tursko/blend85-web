@@ -24,6 +24,18 @@
         "unit": "gal"
     },
     {
+        "id": "ecoboost-maverick",
+        "name": "Ecoboost Maverick",
+        "tankSize": 16.5,
+        "unit": "gal"
+    },
+    {
+        "id": "explorer-st",
+        "name": "Explorer ST",
+        "tankSize": 20.2,
+        "unit": "gal"
+    },
+    {
         "id": "subaru-wrx-15-21",
         "name": "2015-2021 Subaru WRX",
         "tankSize": 15.9,

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "focus-st",
+        "name": "Focus ST",
+        "tankSize": 12.4,
+        "unit": "gal"
+    },
+    {
+        "id": "focus-rs",
+        "name": "Focus RS",
+        "tankSize": 13.9,
+        "unit": "gal"
+    },
+    {
+        "id": "fiesta-st",
+        "name": "Fiesta ST",
+        "tankSize": 12.4,
+        "unit": "gal"
+    },
+    {
+        "id": "ecoboost-mustang",
+        "name": "Ecoboost Mustang",
+        "tankSize": 15.5,
+        "unit": "gal"
+    }
+]

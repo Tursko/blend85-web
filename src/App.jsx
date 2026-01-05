@@ -68,7 +68,7 @@ function App() {
 
   return (
     <>
-      <h1>blend85</h1>
+      <h1>blend85 🌽</h1>
 
       <div className="card">
         <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '12px' }}>
